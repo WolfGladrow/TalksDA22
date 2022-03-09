@@ -1,5 +1,5 @@
 print('file: C3-ProbVenn.R')
-print('1 = Venn and generalized sum rule (2/2022, 7/2016; MATLAB 9/04)')
+# generalized sum rule: Venn diagram
 p=seq(0,7,0.01); x=cos(p); y=sin(p)+0.2*sin(2*p+0.8)
 # A:
 xb=-0.3+0.3*cos(p)
