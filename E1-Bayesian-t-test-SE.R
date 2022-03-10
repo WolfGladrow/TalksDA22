@@ -1,4 +1,4 @@
-print('file: E1-BayesianHyp-t-test_SE.R')
+print('file: E1-Bayesian-t-test-SE.R')
 # plot data & mu0, SE, 1-sample-t-test 
 x = c(1.5,0.3,1.8,-1.4,0.8,3.0,-0.3,0.2,-0.4,1.9,0.0,0.3,-1.0,
       1.2,3.8,0.5,-0.8,2.0,1.1,1.2,-0.4,2.7,0.5,-1.4,1.1)
