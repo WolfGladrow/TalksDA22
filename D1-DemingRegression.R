@@ -1,4 +1,4 @@
-print('file: R_DemingRegression.R')
+print('file: D1-DemingRegression.R')
 # Deming regression: NO3 & PO4 & Redfield ratios
 # estimate variances; notation: Casella & Berger, 2002, p.583-585
 # install.packages('ncdf4') # install package (apply only once on your computer)  # ncdf4
