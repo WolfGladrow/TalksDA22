@@ -3,7 +3,7 @@ print('file: B2-PDsPDFs-chi-squared-PDFs.R')
 x = seq(0.0,10,0.01)
 chisq3 = dchisq(x,3); chisq5 = dchisq(x,5); chisq10 = dchisq(x,10)
 # png('chi-squaredBook160143R.png',width=16,height=16,units='cm',res=300)
-plot(x,chisq3,type='l',col='blue',xlab='x',ylab='Chi-squared distributions',
+plot(x,chisq3,type='l',col='blue',xlab='x',ylab='Density',
      lwd=3,las=1,cex.lab=1.5)
 lines(x,chisq5,col='red',lwd=3,lty=2)
 lines(x,chisq10,col='black',lwd=3,lty=3)
